@@ -256,9 +256,6 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/JOFRIK99" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/16861995-1676462477.jpg" alt="jofrik99" width="76" height="76" />
     </a> 
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kemist" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/7994803-1650052388.jpg" alt="KEMIST" width="76" height="76" />
-    </a>
     <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/MFGAMING" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/17307721-1649242244.jpg" alt="MFGAMING" width="76" height="76" />
     </a>
@@ -512,6 +509,9 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/cryzenx" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/12615446-1750011746.jpg" alt="CryZENx" width="76" height="76" />
+    </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/kemist" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/7994803-1650052388.jpg" alt="KEMIST" width="76" height="76" />
     </a>
 
 </p>
