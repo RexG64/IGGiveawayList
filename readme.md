@@ -295,10 +295,7 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/onlywaifu" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/24159414-1715876189.jpg" alt="onlywaifu" width="76" height="76" />
     </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/cryzenx" target="_blank" rel="noreferrer">
-        <img src="https://gaming-cdn.com/images/avatars/12615446-1750011746.jpg" alt="CryZENx" width="76" height="76" />
-    </a>
-    <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/naito75" target="_blank" rel="noreferrer">
+        <a class="giveaway" href="https://www.instant-gaming.com/fr/giveaway/naito75" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/646051-1626862718.jpg" alt="naito75" width="76" height="76" />
     </a>
     <a class="giveaway" href="https://www.instant-gaming.com/pt/giveaway/remedy" target="_blank" rel="noreferrer">
@@ -513,4 +510,8 @@ Install [this userscript](https://github.com/enzomtpYT/InstantGaming-Giveaway-Au
     <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/minimaleffortgaming" target="_blank" rel="noreferrer">
         <img src="https://gaming-cdn.com/images/avatars/24884349-1723653628.jpg" alt="MinimalEffortGaming" width="76" height="76" />
     </a>
+    <a class="giveaway" href="https://www.instant-gaming.com/en/giveaway/cryzenx" target="_blank" rel="noreferrer">
+        <img src="https://gaming-cdn.com/images/avatars/12615446-1750011746.jpg" alt="CryZENx" width="76" height="76" />
+    </a>
+
 </p>
